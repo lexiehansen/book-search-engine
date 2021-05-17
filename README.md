@@ -16,4 +16,7 @@
 - WHEN I click on the Remove button on a book, THEN that book is deleted from my saved books list
 - WHEN I click on the Logout button, THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 
-A link to my deployed application via Heroku is available [here](https://stark-springs-26838.herokuapp.com/).
+A link to my deployed application via Heroku is available [here](https://gentle-headland-59778.herokuapp.com/).
+
+Here is a screenshot of the completed webpage: <img width="1791" alt="Screen Shot 2021-05-17 at 5 47 40 PM" src="https://user-images.githubusercontent.com/72775548/118569907-27e06100-b738-11eb-9476-eb1c816fed4d.png">
+
